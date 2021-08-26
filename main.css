@@ -9,7 +9,7 @@ body{
     align-items: center;
     
     height: 100vh;
-    width: auto;
+    width: 100vh;
 
     border: solid slategray 1rem;
     border-bottom-left-radius: 50%;
