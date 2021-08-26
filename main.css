@@ -11,7 +11,7 @@ body{
     height: 100%;
     width: 100%;
 
-    border: solid slategray 1rem;
+    border: solid white 1rem;
     border-bottom-left-radius: 50%;
     background-color: azure; 
 }
@@ -24,7 +24,7 @@ body{
     height: 75vh;
     width: 75vh;
     
-    border: solid slategray 1rem;
+    border: solid white 1rem;
     border-bottom-left-radius: 50%;
 }
 
